@@ -62,6 +62,7 @@ There are also a few issues marked as `help wanted` [here](https://github.com/is
 
 - Brazilian Portuguese added by [@Gersonzao](https://github.com/Gersonzao)
 - Polish added by Kamil K
+- Turkish added by [@arda-guler](https://github.com/arda-guler)
 
 Currently, all other translations in the extension are done by Google Translate and may be inaccurate. Pull requests fixing any incorrect translations or adding new ones are appreciated! The relevant files can be found in the `_locales` directory.
 
