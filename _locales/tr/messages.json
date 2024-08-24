@@ -1,0 +1,77 @@
+{
+	"name": {
+		"message": "YouTube™ için Ek Açıklama Kurtarıcı"
+	},
+	"shortName": {
+		"message": "Ek Açıklama Kurtarıcı"
+	},
+	"description": {
+		"message": "YouTube™'a ek açıklama desteğini geri getirin!"
+	},
+
+	"statusTextNoVideo": {
+		"message": "Oynayan video yok."
+	},
+	"statusTextCheckingForVideo": {
+		"message": "Ek açıklamalar kontrol ediliyor..."
+	},
+
+	"loadAnnotationText": {
+		"message": "Ek Açıklama Dosyası Yükle"
+	},
+	"manageCacheText": {
+		"message": "Cache'i Düzenle"
+	},
+
+	"annotationCountSingular": {
+		"message": "Ek Açıklama"
+	},
+	"annotationCountPlural": {
+		"message": "Ek Açıklama"
+	},
+
+	"annotationTableType": {
+		"message": "Tip"
+	},
+	"annotationTableText": {
+		"message": "Metin"
+	},
+	"annotationTableTime": {
+		"message": "Zaman"
+	},
+
+	"annotationNoText": {
+		"message": "Metin yok"
+	},
+
+	"downloadButtonText": {
+		"message": "İndir"
+	},
+
+	"missingAnnotationsHeader": {
+		"message": "Hmm. Bu video için herhangi bir ek açıklama yok gibi görünüyor."
+	},
+	"missingAnnotationsText1": {
+		"message": "Ek açıklama dosyanız mı var?"
+	},
+	"missingAnnotationsText2": {
+		"message": "Şu e-posta adresine gönderin: "
+	},
+
+	"donateButtonText": {
+		"message": "Bana bir kahve alın!"
+	},
+
+	"manageCacheHeader": {
+		"message": "Ek Açıklama Kurtarıcı Cache'ini Düzenle"
+	},
+	"manageCacheTotalSizeText": {
+		"message": "Toplam Boyut:"
+	},
+	"manageCacheOpenButtonText": {
+		"message": "Aç"
+	},
+	"manageCacheDeleteButtonText": {
+		"message": "Sil"
+	}
+}
